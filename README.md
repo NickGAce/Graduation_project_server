@@ -45,7 +45,7 @@ app/
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://ваш-репозиторий.git
+git clone https://github.com/NickGAce/Graduation_project_server.git
 cd Graduation_project_server-master
 ```
 
