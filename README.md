@@ -110,4 +110,7 @@ uvicorn app.main:app --reload
 
 ---
 
+![7KIu0kFVMSY](https://github.com/user-attachments/assets/9d05ad81-ec92-4e4a-a460-feb2bb70521b)
+![cPRk0bS1tYE](https://github.com/user-attachments/assets/66c8cca5-581d-455a-a03f-37191a6002de)
+
 
